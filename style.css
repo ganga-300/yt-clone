@@ -1,0 +1,161 @@
+
+.container{
+    display:flex;
+    flex-direction: row;
+    padding-bottom:23px;
+    margin-bottom: 23px;
+}
+.side-bar{
+    color:white;
+    padding-left:0px;
+    padding-top: 18px;
+    position: fixed;
+    overflow: auto;
+}
+
+.side{
+    margin-bottom: 24px;
+    font-size: 18px;
+    padding-top: px;
+    
+}
+.middle-bar{
+    display: flex;
+    padding-left:45px;
+    padding-top: 5px;
+    color:white;
+    font-size: 18px;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+body{
+    background-color: black;
+}
+
+.mid {
+    margin:10px;
+    background-color: gray;
+    padding-left: 4px;
+    padding-top:4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    border-radius: 4px;
+    ;
+
+}
+.header{
+    color:white;
+    display: flex;
+    padding:14px;
+    position: fixed;
+    width: 100vw; 
+    background-color: black;
+}
+.leftout{
+    margin-left: 12vw;
+}
+
+.left{
+    margin-right: 25px;
+
+}
+#top{
+    padding-top: 12px;
+}
+
+
+    
+.main-container{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left:49px;
+}
+.video1 iframe{
+    border-radius: 15px;
+    padding: 23px;
+}
+
+.video2 iframe{
+    border-radius: 15px;
+    padding: 23px;
+}
+
+.video3 iframe{
+    border-radius: 15px;
+    padding: 23px;
+}
+
+.video4 iframe{
+    border-radius: 15px;
+    padding: 23px;
+}
+
+.video5 iframe{
+    border-radius: 15px;
+    padding: 23px;
+}
+
+.video6 iframe{
+    border-radius: 20px;
+    padding: 23px;
+}
+
+.video7 iframe{
+    border-radius: 15px;
+    padding: 23px;
+}
+
+.video8 iframe{
+    border-radius: 15px;
+    padding: 23px;
+}
+
+.video9 iframe{
+    border-radius: 15px;
+    padding: 23px;
+}
+
+.video10 iframe{
+    border-radius: 15px;
+    padding: 23px;
+}
+
+.video11 iframe{
+    border-radius: 15px;
+    padding:23px
+    
+}
+
+
+ 
+  
+  input {
+    width: 450px;
+    padding: 10px;
+    font-size: 16px;
+    background-color: black;
+    border-radius: 23px;
+    border-color: none;
+    text-align: center;
+  }
+  .button{
+    margin-left: 385px;
+  }
+  
+  #image{
+    padding-top: 12px;
+    padding-left: 14px;
+    
+  }
+  
+
+
+
+
+
+
+
+  
+    
